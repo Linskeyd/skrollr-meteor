@@ -1,0 +1,8 @@
+{
+  "name": "skrollr-meteor",
+  "description": "Popular Skrollr plugin set up for quick use with Meteor",
+  "homepage": "https://github.com/Prinzhorn/skrollr",
+  "author": "Dave Linskey - Integration to Meteor",
+  "version": "0.1.0",
+  "git": "https://github.com/Prinzhorn/skrollr.git"
+}
