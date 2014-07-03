@@ -1,0 +1,30 @@
+{
+  "format": "unipackage-slice-pre1",
+  "packageVariables": [],
+  "uses": [
+    {
+      "package": "meteor"
+    },
+    {
+      "package": "jquery"
+    },
+    {
+      "package": "templating"
+    }
+  ],
+  "implies": [
+    {
+      "package": "jquery"
+    }
+  ],
+  "resources": [
+    {
+      "type": "prelink",
+      "file": "browser/packages/skrollr-meteor.js",
+      "length": 227864,
+      "offset": 0,
+      "servePath": "/packages/skrollr-meteor.js",
+      "sourceMap": "browser/packages/skrollr-meteor.js.map"
+    }
+  ]
+}
