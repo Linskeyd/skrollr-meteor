@@ -3,6 +3,6 @@
   "description": "Popular Skrollr plugin set up for quick use with Meteor",
   "homepage": "https://github.com/Linskeyd/skrollr-meteor",
   "author": "LinskeyD",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "git": "https://github.com/Linskeyd/skrollr-meteor.git"
 }
